@@ -1,1 +1,0 @@
-# ANLISIS-NUMERIK-
